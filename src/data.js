@@ -44,15 +44,15 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+        img: "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png",
     },
     {
         id: 2,
-        img: "https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+        img: "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png",
     },
     {
         id: 3,
-        img: "https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+        img: "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png",
     },
 
 ];

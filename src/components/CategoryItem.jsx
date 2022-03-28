@@ -45,7 +45,7 @@ const CategoryItem = ({item}) => {
             <Button>SHOP NOW</Button>
         </Info>
     </Container>
-  )
+  );
 };
 
 export default CategoryItem
