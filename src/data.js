@@ -25,20 +25,34 @@ export const sliderItems = [
 export const categories = [
     {
         id: 1,
-        img: "https://socialistmodernism.com/wp-content/uploads/2017/07/placeholder-image.png?w=640",
+        img: "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png",
         title: "Category 1",
     },
     {
         id: 2,
-        img: "https://socialistmodernism.com/wp-content/uploads/2017/07/placeholder-image.png?w=640",
+        img: "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png",
         title: "Category 2",
     },
     {
         id: 3,
-        img: "https://socialistmodernism.com/wp-content/uploads/2017/07/placeholder-image.png?w=640",
+        img: "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png",
         title: "Category 3",
     },
 
 ];
 
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+    },
+    {
+        id: 2,
+        img: "https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+    },
+    {
+        id: 3,
+        img: "https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+    },
 
+];
