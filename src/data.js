@@ -17,7 +17,7 @@ export const sliderItems = [
         id: 3,
         img: "https://socialistmodernism.com/wp-content/uploads/2017/07/placeholder-image.png?w=640",
         title: "Product 3",
-        desc: "Very awersome",
+        desc: "Very awesome.",
         bg: "fcf1ed",
     }
 ];
@@ -40,3 +40,5 @@ export const categories = [
     },
 
 ];
+
+
