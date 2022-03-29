@@ -54,5 +54,4 @@ export const popularProducts = [
         id: 3,
         img: "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png",
     },
-
 ];
