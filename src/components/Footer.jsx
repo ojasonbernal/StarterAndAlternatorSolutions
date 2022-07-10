@@ -113,7 +113,6 @@ const Footer = () => {
         </Center>
         <Right>
             <Title>Contact</Title>
-
             <ContactItem><Room style={{marginRight:"10px"}}/> Address</ContactItem>
             <ContactItem><Phone style={{marginRight:"10px"}}/> Phone Number</ContactItem>
             <ContactItem><MailOutline style={{marginRight:"10px"}}/> Contact Email</ContactItem>
